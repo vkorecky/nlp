@@ -6,6 +6,7 @@
         <groupId>org.korecky</groupId>
         <version>${app.version}</version>
 	<relativePath>../pom.xml</relativePath>
+	<path>
     </parent>
 
     <groupId>org.korecky</groupId>
